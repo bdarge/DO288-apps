@@ -12,7 +12,7 @@ pipeline {
 
     environment {
         //TODO: Customize these variables for your environment
-        DEV_PROJECT = dargebin-us-ibm-com-movies-dev"
+        DEV_PROJECT = "dargebin-us-ibm-com-movies-dev"
         STAGE_PROJECT = "dargebin-us-ibm-com-movies-stage"
         APP_GIT_URL = "https://github.com/bdarge/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-na2.prod.nextcle.com"
