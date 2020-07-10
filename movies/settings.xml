@@ -4,7 +4,7 @@
          <mirror>
          <id>internal-repository</id>
          <name>Maven Repository Manager for classroom</name>
-         <url>https://nexus-common.apps.ocp-na2.prod.nextcle.com</url>
+         <url>http://nexus-common.apps.ocp-na2.prod.nextcle.com</url>
          <mirrorOf>*</mirrorOf>
          </mirror>
        </mirrors>
